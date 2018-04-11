@@ -1,2 +1,3 @@
 # CyberKruq
-Mix of Python with Cyber Security materials
+Everything here is related to Python
+ ;D
