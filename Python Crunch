@@ -1,9 +1,11 @@
 #!/usr/bin/python
 
 # Mahdi M3x 
-
 # Welcome to Word Generator.
 # This program works same as 'Crunch' in kali Linux.
+
+import sys
+import itertools
 
 print "[=] Welcome to Pybf tool! [=]"
 print "[=] To continue type '1' [=]"
