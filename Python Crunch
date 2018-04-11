@@ -26,6 +26,7 @@ if choice.lower() == '1':
 		
 elif choice.lower() == '0':
 	print "[=] Thanks for using Bypf [=]"
+	sys.close()
 	
 else:
 	print "[!] Invalid Input.. Try Again [!]"
